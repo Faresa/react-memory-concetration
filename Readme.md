@@ -16,7 +16,6 @@ Here's a brief overview:
 - **Matching Logic**: Implemented logic to check if the two flipped cards match and handle the outcome accordingly.
 - **Score Tracking**: Tracked players' scores and determined the winner based on the number of matched pairs.
 - **Animations**: Added animations for card flips, modal popups, and other interactive elements.
-- **Deployment**: Deployed the application on a EC2 at .
 
 ## 🚀 Getting Started
 
