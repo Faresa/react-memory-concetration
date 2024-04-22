@@ -19,6 +19,10 @@ Here's a brief overview:
 
 ## 🚀 Getting Started
 
+Get up and Running on https://stackblitz.com/~/github.com/Faresa/react-memory-concetration
+
+or locally...
+
 To run the Memory Game locally, follow these steps:
 
 1. **Clone the repository** to your local machine.
