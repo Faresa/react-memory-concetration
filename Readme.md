@@ -23,8 +23,8 @@ To run the Memory Game locally, follow these steps:
 
 1. **Clone the repository** to your local machine.
 2. **Navigate to the project directory**.
-3. **Install dependencies** using your preferred package manager (`npm install` or `yarn install`).
-4. **Start the development server** (`npm start` or `yarn start`).
+3. **Install dependencies** using your preferred package manager (`npm install`).
+4. **Start the development server** (`npm run dev').
 5. **Access the application** in your web browser at the provided localhost address.
 
 
